@@ -1,0 +1,13 @@
+AUTHORS
+=======
+
+Léonard Deroose (INRIA, Lille, France)
+  - Author
+  - GitHub: https://github.com/lderoose
+
+Arnaud Descours (ISFA, UCBL, Lyon, France)
+  - Co-implemented src/lib/variant.py
+
+Third-party code
+----------------
+See THIRD_PARTY_LICENSES for details on third-party components (conf/models/resnet.py).
